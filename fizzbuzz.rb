@@ -6,6 +6,6 @@ def fizzbuzz(i)
   elsif i % 5 == 0
     return "Buzz"
   else
-    return "Hello"
+    return i
   end
 end
